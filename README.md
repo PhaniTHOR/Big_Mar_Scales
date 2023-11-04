@@ -66,3 +66,7 @@ Linear regression is a widely used statistical technique that models the relatio
 - The dataset used in this project is sourced from: (https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)
 - The Gradient Boosting Machine algorithm is implemented using the scikit-learn library.
 
+### Aim of the project
+
+This is a summary of the objective and approach of a data analysis project. The goal is to use regression machine learning models to estimate the "Item_Outlet_Sales" variable for a test data set, based on the training data set of the big mart sales. The regression models will use various features from the data, such as item type, outlet size, outlet location, etc., to learn the relationship between the input and output variables and make predictions for the test data set.
+
